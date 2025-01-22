@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-22 06:29:09,url
+2025-01-22 18:32:08,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no$订阅源
@@ -54,7 +54,7 @@ CCTV-4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?
 CCTV-4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no$订阅源
 CCTV-4,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no$订阅源
 CCTV-4,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3$订阅源
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$订阅源|1920x1080
 CCTV-4,https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd$订阅源
 CCTV-4,http://gslbserv.itv.cmvideo.cn:80/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=IPTV$订阅源
 CCTV-4,http://61.136.67.238:50085/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -392,7 +392,7 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111$订阅源|1920x1080
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111$订阅源|1920x1080
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$订阅源
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源|1920x1080
+广东体育,http://125.89.163.44:8888/udp/239.77.0.112:5146$订阅源|1920x1080
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$组播源
 广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146$组播源
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146$组播源
@@ -455,7 +455,6 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.87:11111$订阅源|1920x1080
 广州影视,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php?id=jingsai$订阅源
 广州影视,http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111$订阅源|1920x1080
-广州影视,http://14.112.86.85:4022/udp/239.253.43.73:5146$订阅源
 广州影视,http://120.77.205.62:8087/rtp/239.253.43.68:5146$组播源
 广州影视,http://120.77.205.62:8087/rtp/239.253.43.73:5146$组播源
 佛山综合,http://120.77.205.62:8087/rtp/239.253.43.57:5146$组播源
