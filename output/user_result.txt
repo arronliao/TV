@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-30 06:28:02,url
+2025-03-30 18:32:15,url
 📺央视频道,#genre#
 CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,http://gslbserv.itv.cmvideo.cn:80/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=IPTV$订阅源
@@ -355,7 +355,7 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 广东珠江,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv$订阅源
 广东珠江,https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts$订阅源
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8$订阅源
-广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$订阅源
+广东珠江,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8$订阅源
 广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146$组播源
 广东体育,http://r.jdshipin.com/LiYdg$订阅源
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8$订阅源
