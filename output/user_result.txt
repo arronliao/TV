@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-07 18:36:20,url
+2025-04-08 06:29:26,url
 📺央视频道,#genre#
 CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,http://gslbserv.itv.cmvideo.cn:80/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=IPTV$订阅源
@@ -8,8 +8,8 @@ CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源|1920x1080
 CCTV-1,https://hlszymgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/600/01.m3u8?msisdn=ab12973897c57b19ba4556b0e0b3dc34&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20241123094415&Channel_ID=0131_10010001005&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=140.249.97.59&SecurityKey=20241123094415&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-7.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&mtv_session=c37abc9ac64bf515ea65940f46ca6868&sv=10000&ct=h5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b516f1c88e55405e93fac2f5a8e25cf3$订阅源
 CCTV-1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8$订阅源
 CCTV-1,http://58.19.43.46:9901/tsfile/live/1020_1.m3u8$订阅源
-CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8$订阅源
-CCTV-1,http://120.76.248.139/live/bfgd/4200000484.m3u8$订阅源
+CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8$订阅源|1920x1080
+CCTV-1,http://120.76.248.139/live/bfgd/4200000484.m3u8$订阅源|1920x1080
 CCTV-1,http://110.53.218.182:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://122.9.151.210:5984/rtp/238.255.2.91:5999$贵州电信组播源
 CCTV-1,http://123.56.129.203:5984/rtp/225.1.8.1:8008$北京电信组播源
@@ -38,7 +38,7 @@ CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8$订阅源|1920x1080
 CCTV-3,http://110.53.218.182:9902/tsfile/live/0003_1.m3u8$订阅源
 CCTV-3,http://61.138.128.226:19901/tsfile/live/0003_1.m3u8$订阅源
 CCTV-3,http://58.19.43.46:9901/tsfile/live/1022_1.m3u8$订阅源
-CCTV-3,http://120.76.248.139/live/bfgd/4200000062.m3u8$订阅源
+CCTV-3,http://120.76.248.139/live/bfgd/4200000062.m3u8$订阅源|1920x1080
 CCTV-3,http://116.117.104.34:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-3,http://112.27.145.212:9901$订阅源
 CCTV-3,http://122.9.151.210:5984/rtp/238.255.2.133:5999$贵州电信组播源
@@ -53,7 +53,7 @@ CCTV-4,http://gslbserv.itv.cmvideo.cn:80/1000000005000265004/1.m3u8?channel-id=y
 CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8$订阅源|1920x1080
 CCTV-4,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8$订阅源
-CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8$订阅源
+CCTV-4,http://120.76.248.139/live/bfgd/4200000063.m3u8$订阅源|1920x1080
 CCTV-4,http://110.53.218.182:9902/tsfile/live/0004_1.m3u8$订阅源
 CCTV-4,http://116.117.104.34:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-4,http://122.9.151.210:5984/rtp/238.255.2.92:5999$贵州电信组播源
@@ -66,7 +66,7 @@ CCTV-5,http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=yste
 CCTV-5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8$订阅源|1920x1080
 CCTV-5,http://61.138.128.226:19901/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5,http://58.19.43.46:9901/tsfile/live/1024_1.m3u8$订阅源
-CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8$订阅源
+CCTV-5,http://120.76.248.139/live/bfgd/4200000064.m3u8$订阅源|1920x1080
 CCTV-5,http://61.138.128.226:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5,http://110.53.218.182:9902/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5,http://110.53.218.182:9902/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -120,7 +120,7 @@ CCTV-8,http://gslbserv.itv.cmvideo.cn/1000000005000265008/1.m3u8?channel-id=yste
 CCTV-8,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8$订阅源|1920x1080
 CCTV-8,http://61.138.128.226:19901/tsfile/live/0009_1.m3u8$订阅源
 CCTV-8,http://58.19.43.46:9901/tsfile/live/1027_1.m3u8$订阅源
-CCTV-8,http://120.76.248.139/live/bfgd/4200000066.m3u8$订阅源
+CCTV-8,http://120.76.248.139/live/bfgd/4200000066.m3u8$订阅源|1920x1080
 CCTV-8,http://110.53.218.182:9902/tsfile/live/0008_1.m3u8$订阅源
 CCTV-8,http://121.19.134.222:808/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-8,http://116.117.104.34:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -136,7 +136,7 @@ CCTV-9,https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8$订阅源|1920x1080
 CCTV-9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8$订阅源
 CCTV-9,http://61.138.128.226:19901/tsfile/live/0009_2.m3u8$订阅源
 CCTV-9,http://58.19.43.46:9901/tsfile/live/1028_1.m3u8$订阅源
-CCTV-9,http://120.76.248.139/live/bfgd/4200000128.m3u8$订阅源
+CCTV-9,http://120.76.248.139/live/bfgd/4200000128.m3u8$订阅源|1920x1080
 CCTV-9,http://61.138.128.226:19901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-9,http://110.53.218.182:9902/tsfile/live/0009_1.m3u8$订阅源
 CCTV-9,http://116.117.104.34:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -179,7 +179,7 @@ CCTV-11,http://123.56.129.203:9175/rtp/225.1.8.111:8040$北京电信组播源
 CCTV-12,http://gslbserv.itv.cmvideo.cn/1000000005000265012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=3$订阅源
 CCTV-12,http://61.138.128.226:19901/tsfile/live/0013_1.m3u8$订阅源
 CCTV-12,http://58.19.43.46:9901/tsfile/live/1031_1.m3u8$订阅源
-CCTV-12,http://120.76.248.139/live/bfgd/4200000131.m3u8$订阅源
+CCTV-12,http://120.76.248.139/live/bfgd/4200000131.m3u8$订阅源|1920x1080
 CCTV-12,http://110.53.218.182:9902/tsfile/live/0012_1.m3u8$订阅源
 CCTV-12,http://61.138.128.226:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-12,http://116.117.104.34:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -213,7 +213,7 @@ CCTV-14,https://hlszymgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/01.m3u8
 CCTV-14,http://110.53.218.182:9902/tsfile/live/0014_1.m3u8$订阅源
 CCTV-14,http://61.138.128.226:19901/tsfile/live/0015_1.m3u8$订阅源
 CCTV-14,http://58.19.43.46:9901/tsfile/live/1033_1.m3u8$订阅源
-CCTV-14,http://120.76.248.139/live/bfgd/4200000132.m3u8$订阅源
+CCTV-14,http://120.76.248.139/live/bfgd/4200000132.m3u8$订阅源|1920x1080
 CCTV-14,http://116.117.104.34:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-14,http://112.27.145.212:9901$订阅源
 CCTV-14,http://122.9.151.210:5984/rtp/238.255.2.17:5999$贵州电信组播源
@@ -225,7 +225,7 @@ CCTV-15,http://gslbserv.itv.cmvideo.cn/1000000005000265014/1.m3u8?channel-id=yst
 CCTV-15,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8$订阅源|1920x1080
 CCTV-15,http://61.138.128.226:19901/tsfile/live/0019_1.m3u8$订阅源
 CCTV-15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8$订阅源
-CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8$订阅源
+CCTV-15,http://120.76.248.139/live/bfgd/4200000133.m3u8$订阅源|1920x1080
 CCTV-15,http://110.53.218.182:9902/tsfile/live/0015_1.m3u8$订阅源
 CCTV-15,http://116.117.104.34:9901/tsfile/live/0014_2.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://112.27.145.212:9901$订阅源
@@ -275,7 +275,7 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 广东卫视,http://58.19.43.46:9901/tsfile/live/1039_1.m3u8$订阅源
 广东卫视,http://61.138.128.226:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws$订阅源
-广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$订阅源
+广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$订阅源|1920x1080
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8$订阅源
 广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=71ab4343c0e7a55b1287f3c4ec3383c9de673d987b5c849b2728e9af4223510bc8d8fcb87af13066db4920eb8e871c74aa5e93e04d43de870dc64eadb99a05456adfdb14b43000fd4520cba033$订阅源|1920x1080
 广东卫视,http://60.223.224.176:8888/newlive/live/hls/20/live.m3u8$订阅源
@@ -294,7 +294,7 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 浙江卫视,http://110.53.218.182:9902/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 浙江卫视,http://61.138.128.226:19901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 浙江卫视,http://110.53.52.63:8888/newlive/live/hls/23/live.m3u8$订阅源
-浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8$订阅源
+浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8$订阅源|1920x1080
 浙江卫视,http://60.223.224.176:8888/newlive/live/hls/23/live.m3u8$订阅源
 浙江卫视,http://tv.2cf.x10.mx/2hl/3221225612/index.m3u8?ace$订阅源
 浙江卫视,http://122.9.151.210:5984/rtp/238.255.2.100:5999$贵州电信组播源
@@ -306,7 +306,7 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 北京卫视,http://61.138.128.226:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 北京卫视,http://110.53.218.182:9902/tsfile/live/0122_1.m3u8$订阅源
 北京卫视,http://110.53.218.182:9902/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8$订阅源
+北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8$订阅源|1920x1080
 北京卫视,http://60.223.224.176:8888/newlive/live/hls/18/live.m3u8$订阅源
 北京卫视,http://tv.2cf.x10.mx/2hl/3221226251/index.m3u8?ace$订阅源
 北京卫视,http://tv.2cf.x10.mx/2hl/3221226450/index.m3u8?ace$订阅源
@@ -317,7 +317,7 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 河北卫视,http://61.138.128.226:19901/tsfile/live/0117_1.m3u8$订阅源
 河北卫视,http://110.53.218.182:9902/tsfile/live/0117_1.m3u8$订阅源
 河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8$订阅源
-河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8$订阅源
+河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8$订阅源|1920x1080
 河北卫视,http://tv.2cf.x10.mx/2hl/3221226406/index.m3u8?ace$订阅源
 河北卫视,http://tv.2cf.x10.mx/2hl/3221226448/index.m3u8?ace$订阅源
 河北卫视,http://tv.2cf.x10.mx/2hl/3221225623/index.m3u8?ace$订阅源
@@ -371,7 +371,7 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 广东卫视,http://58.19.43.46:9901/tsfile/live/1039_1.m3u8$订阅源
 广东卫视,http://61.138.128.226:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws$订阅源
-广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$订阅源
+广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$订阅源|1920x1080
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8$订阅源
 广东卫视,https://www.freetv.top/migu/608831231.m3u8?migutoken=71ab4343c0e7a55b1287f3c4ec3383c9de673d987b5c849b2728e9af4223510bc8d8fcb87af13066db4920eb8e871c74aa5e93e04d43de870dc64eadb99a05456adfdb14b43000fd4520cba033$订阅源|1920x1080
 广东卫视,http://60.223.224.176:8888/newlive/live/hls/20/live.m3u8$订阅源
@@ -400,7 +400,7 @@ CETV4,http://123.56.129.203:9175/rtp/225.1.8.195:4120$北京电信组播源
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe$订阅源
 广州综合,http://php.jdshipin.com:8880/iptv.php?id=gzzh$订阅源
 广州综合,http://tvbox6.icu/tv/gdmzyd.php?id=17$订阅源
-广州综合,http://119.32.12.17:2901/udp/224.1.100.36:11111$订阅源
+广州综合,http://119.32.12.17:2901/udp/224.1.100.36:11111$订阅源|1920x1080
 广州综合,http://120.77.205.62:8087/rtp/239.253.43.66:5146$组播源
 广州综合,http://120.77.205.62:8087/rtp/239.253.43.71:5146$组播源
 广州影视,http://r.jdshipin.com/sFw4S$订阅源
